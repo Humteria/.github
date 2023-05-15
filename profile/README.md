@@ -1,4 +1,4 @@
-![alt text](https://github.com/Humteria/booking-hive/blob/main/HumteriaBanner.png?raw=true)
+![Humteria Welcome Banner](https://github.com/Humteria/.github/blob/main/HumteriaBanner.png?raw=true)
 
 ## 💡 What the hell is Humteria??
 #### Humteria is a team of passionate developers that are eager on taking on new challenges and learning new technologies.
