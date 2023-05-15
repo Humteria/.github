@@ -10,9 +10,9 @@ We create open-source platforms avaliable for everyone to use.
 We are currently developing the <a href=https://github.com/Humteria/booking-hive/>BookingHive Platform</a>. See the <a href=https://github.com/orgs/Humteria/projects/3/>Kanban-Board</a>.
 
 ## 🏗️ Our Projects
-| Project | Description | 
-| :--------- | :---------- | 
-| <a font-size=30px href=https://github.com/Humteria/booking-hive/>🐝 BookingHive</a> ⬢⬡ | A modern Booking platform for all sorts of services.<br>- [Docs](https://github.com/Humteria/booking-hive/)<br>- [Frontend](https://github.com/Humteria/booking-hive-frontend/)<br>- [Backend](https://github.com/Humteria/booking-hive/) |
+| Project | Description | Repositories |
+| :--------- | :---------- | :---------- | 
+| <a font-size=30px href=https://github.com/Humteria/booking-hive/>🐝 BookingHive</a> ⬢⬡ | A modern Booking platform for all sorts of services. | - [Docs](https://github.com/Humteria/booking-hive/)<br>- [Frontend](https://github.com/Humteria/booking-hive-frontend/)<br>- [Backend](https://github.com/Humteria/booking-hive/) |
 
 ## 🧀 Fun Fact
 The holes in Swiss cheese are made using haydust!
